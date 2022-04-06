@@ -3,3 +3,9 @@ requests
 jupyterlab
 pandas
 catboost
+pyarrow
+pytest
+python-multipart
+uvicorn[standard]
+aiofiles
+Jinja2
