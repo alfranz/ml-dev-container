@@ -11,7 +11,6 @@ Ships with these dependencies:
 - catboost
 
 
-
 VSCode Extensions:
 
 - Python
