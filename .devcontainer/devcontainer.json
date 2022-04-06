@@ -1,5 +1,5 @@
 {
-	"name": "Python 3",
+	"name": "Python 3.9 ML Edition",
 	"runArgs": ["--init"],
 	"build": {
 		"dockerfile": "Dockerfile",
